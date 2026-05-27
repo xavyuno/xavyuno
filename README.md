@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1392252833025232916/1488161692516089989/banner.png?ex=69cbc614&is=69ca7494&hm=dcab3ed8428b87e5964f3b9b70e59ca6a95804814624dee372242d49bb4aff15&"  />
-</div>
-
 ###
 
 <br clear="both">
