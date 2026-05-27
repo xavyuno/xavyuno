@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xavyuno.xavyuno&left_text=Eyes:"  />
+  <img src="banner.png"  />
 </div>
 
 ###
