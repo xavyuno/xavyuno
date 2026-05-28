@@ -1,12 +1,5 @@
 ###
 
-<br clear="both">
-<h1>
-  Greetings! I am xavier
-</h1>
-
-###
-
 <div align="center">
   <img src="banner.png"  />
 </div>
